@@ -1,0 +1,55 @@
+{
+  "categories": [
+    {
+      "name": "category1",
+      "display_name": "categoryOne",
+      "description": "the first category",
+      "id": 1
+    },
+    {
+      "name": "category2",
+      "display_name": "categoryTwo",
+      "description": "the second category",
+      "id": 2
+    },
+    {
+      "name": "category3",
+      "display_name": "categoryThree",
+      "description": "the third category",
+      "id": 3
+    },
+    {
+      "name": "category4",
+      "display_name": "categoryFour",
+      "description": "the fourth category",
+      "id": 4
+    }
+  ],
+
+    "products": [
+    {
+      "name": "product1",
+      "display_name": "productOne",
+      "description": "the first product",
+      "id": 1
+    },
+    {
+      "name": "product2",
+      "display_name": "productTwo",
+      "description": "the second product",
+      "id": 2
+    },
+    {
+      "name": "product3",
+      "display_name": "productThree",
+      "description": "the third product",
+      "id": 3
+    },
+    {
+      "name": "product4",
+      "display_name": "productFour",
+      "description": "the fourth product",
+      "id": 4
+    }
+  ]
+}
